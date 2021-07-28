@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T03:52:04.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55" etag="oGTfnsR7pDFYCv9Cb3ni" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T07:19:49.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55" etag="jlVc_W5tM71GDxju0UZN" version="14.9.2" type="github">
   <diagram id="7C_1mKtZpM7-MC3SUt2j" name="Page-1">
     <mxGraphModel dx="1422" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,8 +98,8 @@
         <mxCell id="BNKGKomZE4ycVB4teLV4-18" value="query_set_raw_processed" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="96.69999999999999" y="384.38" width="144.62" height="41.25" as="geometry" />
         </mxCell>
-        <mxCell id="BNKGKomZE4ycVB4teLV4-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;step 0: add un-impressed q -&amp;gt; transitive key&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="310" width="160" height="65" as="geometry" />
+        <mxCell id="BNKGKomZE4ycVB4teLV4-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;step 0: add un-impressed q -&amp;gt; transitive key&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNKGKomZE4ycVB4teLV4-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNKGKomZE4ycVB4teLV4-25" target="BNKGKomZE4ycVB4teLV4-35">
           <mxGeometry relative="1" as="geometry" />
@@ -113,8 +113,8 @@
         <mxCell id="BNKGKomZE4ycVB4teLV4-35" value="query_stats" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="403" y="615" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BNKGKomZE4ycVB4teLV4-37" value="step 1: filter" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="515" width="90" height="30" as="geometry" />
+        <mxCell id="BNKGKomZE4ycVB4teLV4-37" value="step 1: filter" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="515" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BNKGKomZE4ycVB4teLV4-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNKGKomZE4ycVB4teLV4-39" target="_AsPfFJiuaYgu935RAGV-25">
           <mxGeometry relative="1" as="geometry" />
@@ -125,8 +125,8 @@
         <mxCell id="BNKGKomZE4ycVB4teLV4-39" value="query_set" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="392.13" y="762.5" width="137.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BNKGKomZE4ycVB4teLV4-43" value="step 2: number on query" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="682.5" width="160" height="30" as="geometry" />
+        <mxCell id="BNKGKomZE4ycVB4teLV4-43" value="step 2: number on query" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="682.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BNKGKomZE4ycVB4teLV4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNKGKomZE4ycVB4teLV4-45" target="BNKGKomZE4ycVB4teLV4-47">
           <mxGeometry relative="1" as="geometry" />
@@ -143,8 +143,8 @@
         <mxCell id="BNKGKomZE4ycVB4teLV4-47" value="group_data" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="391.38" y="925" width="137.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BNKGKomZE4ycVB4teLV4-48" value="step 3: group data generation" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="593" y="935" width="180" height="30" as="geometry" />
+        <mxCell id="BNKGKomZE4ycVB4teLV4-48" value="step 3: group data generation" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="935" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BNKGKomZE4ycVB4teLV4-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNKGKomZE4ycVB4teLV4-56" target="BNKGKomZE4ycVB4teLV4-58">
           <mxGeometry relative="1" as="geometry" />
@@ -171,13 +171,13 @@
           <mxGeometry x="401.01" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BNKGKomZE4ycVB4teLV4-64" value="dev.tsv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="498" y="1110" width="110" height="50" as="geometry" />
+          <mxGeometry x="490" y="1110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BNKGKomZE4ycVB4teLV4-66" value="train.tsv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1110" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BNKGKomZE4ycVB4teLV4-69" value="step4: build trainset and validset based on query" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="593" y="1030" width="210" height="40" as="geometry" />
+        <mxCell id="BNKGKomZE4ycVB4teLV4-69" value="step4: build trainset and validset based on query" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1030" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
